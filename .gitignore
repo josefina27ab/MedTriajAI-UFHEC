@@ -1,0 +1,20 @@
+﻿# Carpetas de compilacion - NO subir a GitHub
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# NuGet
+packages/
+*.nupkg
+
+# Exportaciones generadas en runtime
+Exports/
+
+# OS
+.DS_Store
+Thumbs.db
