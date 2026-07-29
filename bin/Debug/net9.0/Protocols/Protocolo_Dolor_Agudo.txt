@@ -1,0 +1,76 @@
+PROTOCOLO DE MANEJO DE DOLOR AGUDO
+Unidad de Urgencias | UFHEC
+Versión: 3.2 | 2024
+
+================================================================================
+EVALUACIÓN DEL DOLOR
+================================================================================
+
+Todo paciente que consulta por dolor debe ser evaluado mediante la Escala Visual
+Analógica (EVA) o la Escala Numérica de Dolor (END) en los primeros 5 minutos
+desde su llegada al área de triaje.
+
+Dolor leve (EVA 1-3):
+- Manejo no farmacológico (posición, frío/calor local)
+- Analgesia simple: Acetaminofén 500-1000 mg vía oral
+- Reevaluación a los 30 minutos
+
+Dolor moderado (EVA 4-6):
+- AINE: Ibuprofeno 400-600 mg VO / Ketorolaco 30 mg IV o IM
+- Evaluar contraindicaciones (insuficiencia renal, gástrica, embarazo)
+- Reevaluación cada 20-30 minutos
+
+Dolor severo (EVA 7-10):
+- Opioides: Morfina 0.1 mg/kg IV titulada / Tramadol 100 mg IV
+- Monitoreo continuo de signos vitales y estado respiratorio
+- Considerar sedación controlada si hay procedimientos invasivos
+- Reevaluación cada 15 minutos
+
+================================================================================
+DOLOR TORÁCICO — ALGORITMO RÁPIDO
+================================================================================
+
+Ante todo dolor torácico:
+1. EKG en los primeros 10 minutos (regla de los 10 minutos)
+2. Troponinas seriadas (0h y 3h)
+3. Radiografía de tórax
+4. Monitoreo cardíaco continuo
+5. Acceso venoso periférico
+6. Aspirina 300 mg masticada (si no alergia) mientras se descarta SCA
+
+Características de ALTO RIESGO (requieren ESI 1 o 2):
+- Opresivo, irradiado a brazo izquierdo/mandíbula
+- Acompañado de diaforesis, náuseas, síncope
+- Inestabilidad hemodinámica
+- Cambios en EKG (elevación ST, bloqueo nuevo de rama izquierda)
+
+================================================================================
+DOLOR ABDOMINAL — BANDERAS ROJAS
+================================================================================
+
+Signos de abdomen agudo quirúrgico (ESI 2-3):
+- Rigidez abdominal a la palpación
+- Signo de rebote (Blumberg) positivo
+- Dolor en fosa iliaca derecha + fiebre (sospecha apendicitis)
+- Distensión abdominal severa
+- Ausencia de ruidos intestinales
+- Signos de peritonitis
+
+En mujeres en edad reproductiva: SIEMPRE descartar embarazo ectópico.
+Solicitar B-HCG cuantitativa urgente.
+
+================================================================================
+DOLOR DE CABEZA — SEÑALES DE ALARMA ("Thunderclap Headache")
+================================================================================
+
+Cefalea que requiere evaluación inmediata (ESI 1-2):
+- Inicio súbito e intenso ("el peor dolor de cabeza de mi vida")
+- Acompañado de fiebre y rigidez de nuca (sospecha meningitis)
+- Con déficit neurológico focal
+- Tras traumatismo craneal
+- En paciente con historia de hipertensión severa
+- Con alteración del estado de conciencia
+
+Acción: TC craneal sin contraste urgente + evaluación neurológica.
+
+================================================================================
